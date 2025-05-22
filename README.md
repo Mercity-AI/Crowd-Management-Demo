@@ -1,6 +1,8 @@
 # Crowd Management Demo
 
-A real-time crowd management system using YOLOv8 for person detection and tracking. This system can process multiple video feeds to track and count people in crowds.
+A real-time crowd management system using YOLOv8 for person detection and tracking. This system can process multiple video feeds to track and count people in crowds. 
+
+Built and managed by ![Mercity AI](https://mercity.ai)!
 
 ## Demo
 ![Crowd Tracking Demo 1](demo/demo1.gif)
