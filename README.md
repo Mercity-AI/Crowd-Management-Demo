@@ -40,12 +40,25 @@ pip install -r requirements.txt
 
 ## Usage
 
+### Command Line Processing
+
 1. Place your videos in the `videos` directory
 2. Run the processing script:
 ```bash
 python process_videos.py
 ```
 3. Check the `results` directory for processed videos
+
+### Streamlit Web Interface
+
+1. Run the Streamlit app:
+```bash
+streamlit run streamlit_app.py
+```
+2. Open your browser at http://localhost:8501
+3. Upload a video using the file uploader
+4. Click "Process Video" to start processing
+5. View the results and download the processed video
 
 ## Project Structure
 
@@ -84,4 +97,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - YOLOv8 for the object detection model
-- ByteTrack for the tracking algorithm 
+- ByteTrack for the tracking algorithm  
