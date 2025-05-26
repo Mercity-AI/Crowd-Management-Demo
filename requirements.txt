@@ -3,4 +3,5 @@ numpy
 tqdm
 ultralytics
 torch
-torchvision 
+torchvision
+streamlit
