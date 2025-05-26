@@ -4,6 +4,8 @@ A real-time crowd management system using YOLOv8 for person detection and tracki
 
 Built and managed by [Mercity AI](https://mercity.ai)!
 
+Read our detailed blog on [Crowd Management Systems](https://www.mercity.ai/blog-post/building-real-time-crowd-management-systems)!
+
 ## Demo
 ![Crowd Tracking Demo 1](demo/demo1.gif)
 ![Crowd Tracking Demo 2](demo/demo2.gif)
